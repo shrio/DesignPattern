@@ -1,1 +1,1 @@
-A C# with DesignPattern demo
+A C# project for learning design patterns
